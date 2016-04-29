@@ -1,6 +1,6 @@
 {
   "name": "@yawetse/socket.io-adapter-mongo",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "",
   "scripts": {
     "test": "mocha"
@@ -8,7 +8,6 @@
   "dependencies": {
     "async": "^2.0.0-rc.3",
     "debug": "^2.2.0",
-    "mocha": "^2.4.5",
     "mongodb-uri": "^0.9.7",
     "msgpack-js": "0.3.0",
     "mubsub": "^1.2.0",
@@ -20,7 +19,7 @@
   "devDependencies": {
     "socket.io": "1.0.2",
     "socket.io-client": "1.0.2",
-    "mocha": "1.18.0",
+    "mocha": "^2.4.5",
     "expect.js": "0.3.1",
     "async": "0.2.10"
   },
